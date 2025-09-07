@@ -12,6 +12,9 @@ This project is an ongoing attempt to build a machine learning model to detect f
 ## Next steps:
 - Improve feature engineering.  
 - Test multiple ML algorithms (Random Forest, Gradient Boosting).  
-- Evaluate metrics: Precision, Recall, F1.  
+- Evaluate metrics: Precision, Recall, F1.
+
+# Dataset source: [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv)
+# Note: CSV file not uploaded due to GitHub size limitations (>100MB)
 
 ⚠️ Note: This project is currently in progress and will be updated as new steps are completed.
